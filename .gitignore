@@ -1,0 +1,7 @@
+/node_modules
+/vendor
+/src
+/vendor
+gulpfile.js
+composer.json
+composer.lock.json
